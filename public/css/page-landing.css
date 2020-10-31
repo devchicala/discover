@@ -18,13 +18,13 @@
 
 .location {
   animation-delay: 100ms;
-  text-align: right;
+  text-align: center;
   font-size: 2.4rem;
   line-height: 1.5;
 }
+
 .location,
 h1,
-
 .visit p {
   height: 16vh;
 }
@@ -78,10 +78,6 @@ main h1 {
   .viisit p {
     height: initial;
     text-align: initial;
-  }
-
-  .location {
-    text-align: right;
   }
 
   main h1 {
